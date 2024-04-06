@@ -1,0 +1,14 @@
+.*swp
+
+.DS_STORE
+
+calendar.crx
+calendar.pem
+
+build/
+node_modules/
+dist/
+tmp/
+src/scripts/*.js
+.env
+.vscode/
